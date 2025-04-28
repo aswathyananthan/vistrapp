@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738447027733",
+    "project_id": "vistr-app",
+    "storage_bucket": "vistr-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738447027733:android:7460ceae44b73f540fa81c",
+        "android_client_info": {
+          "package_name": "com.example.vistr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMBwgvEBr7rC1EiD3oDyqubt70PMzVVEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738447027733:android:d69466ba543e715b0fa81c",
+        "android_client_info": {
+          "package_name": "com.vistr.vistr_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMBwgvEBr7rC1EiD3oDyqubt70PMzVVEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
